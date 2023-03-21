@@ -1,12 +1,16 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_light.svg" width="120">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_dark.svg" width="120">
+  <img alt="webxauth logo" src="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_dark.svg">
+</picture>
 
-<!--
+We at Bonuz ❤️ to build and share tech!
 
-**Here are some ideas to get you started:**
+Our software and other resources are open sourced occasionally.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For a better overview of our projects see the following list.\
+Some links lead to GitHub 404 pages if the selected project is closed source.
+
+- [NEAR - BONUZ Token](https://github.com/bonuz-market/near-bonuz-token-smart-contract)
+- [NEAR - Vesting](https://github.com/bonuz-market/near-vesting-smart-contract)
+- [NEAR - Launchpad](https://github.com/bonuz-market/near-launchpad-smart-contract)
